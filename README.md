@@ -18,6 +18,23 @@ A pragmatic build style:
 
 > TL;DR: Less ceremony, more momentum. Learn a bit, run a bit, close the loop.
 
+## Table of Contents
+- [build-your-own-x — Vibe-Coding Edition](#build-your-own-x--vibe-coding-edition)
+  - [What is Vibe-Coding?](#what-is-vibe-coding)
+  - [To-D List:](#to-d-list)
+    - [How to submit](#how-to-submit)
+    - [1) Community Vibe-Coding Showcases (repos/blogs)](#1-community-vibe-coding-showcases-reposblogs)
+    - [2) Mini-GPT with Vibe-Coding](#2-mini-gpt-with-vibe-coding)
+      - [Core LLM / NLP](#core-llm--nlp)
+  - [Repo Layout (recommended)](#repo-layout-recommended)
+  - [How to Use](#how-to-use)
+    - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
+  - [Table of Contents](#table-of-contents)
+  - [Example: Build your own LLM](#build-your-own-llm--agentic-system)
+
+  - [Contribute](#contribute)
+  - [Credits](#credits)
+
 ## To-Do List: 
 
 We’re actively collecting:
@@ -88,25 +105,6 @@ Open a PR or issue with:
 - 🛠️ **Do the thing**: code the minimum; prefer a scaffold.  
 - ✅ **Auto-check**: run `checks/*` and capture the output.  
 - 📝 **Log vibe**: append 1–3 bullets to `vibes.md` (intent → friction → next).
-
-
-## Table of Contents
-- [build-your-own-x — Vibe-Coding Edition](#build-your-own-x--vibe-coding-edition)
-  - [What is Vibe-Coding?](#what-is-vibe-coding)
-  - [To-D List:](#to-d-list)
-    - [How to submit](#how-to-submit)
-    - [1) Community Vibe-Coding Showcases (repos/blogs)](#1-community-vibe-coding-showcases-reposblogs)
-    - [2) Mini-GPT with Vibe-Coding](#2-mini-gpt-with-vibe-coding)
-      - [Core LLM / NLP](#core-llm--nlp)
-  - [Repo Layout (recommended)](#repo-layout-recommended)
-  - [How to Use](#how-to-use)
-    - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
-  - [Table of Contents](#table-of-contents)
-  - [Example: Build your own LLM](#build-your-own-llm--agentic-system)
-
-  - [Contribute](#contribute)
-  - [Credits](#credits)
-
 
 ### Build your own `LLM (from scratch / minimal)`
 * [**Python**] _Mini-GPT (Toy)_: tokenizer → tiny Transformer → next-token sampling.  
