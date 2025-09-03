@@ -18,6 +18,61 @@ A pragmatic build style:
 
 > TL;DR: Less ceremony, more momentum. Learn a bit, run a bit, close the loop.
 
+## To-D List: 
+
+We’re actively collecting:
+**Community showcases** — repos/blog posts that used **Vibe-Coding** to complete a BYO-X project.  
+
+### How to submit
+Open a PR or issue with:
+- **Link(s):** repo and/or blog post
+- **Vibe artifacts:** `recipes/*.md` (prompts), `checks/*` (auto-checks), `scaffolds/*` (minimal runnable)
+- **Build diary:** `vibes.md` (3 bullets: intent → friction → next)
+- **Notes:** compute used, dataset/source, license
+
+---
+
+### 1) Community Vibe-Coding Showcases (repos/blogs)
+
+> Looking for real build diaries + prompts that wrap classic BYO-X topics.
+
+- [ ] **3D Renderer** — repo/blog + prompts + scaffold + check  
+- [ ] **Augmented Reality** — repo/blog + prompts + scaffold + check  
+- [ ] **BitTorrent Client** — repo/blog + prompts + scaffold + check  
+- [ ] **Blockchain / Cryptocurrency** — repo/blog + prompts + scaffold + check  
+- [ ] **Bot (Discord/Slack/etc.)** — repo/blog + prompts + scaffold + check  
+- [ ] **Command-Line Tool** — repo/blog + prompts + scaffold + check  
+- [ ] **Database (mini-KV / Redis-like)** — repo/blog + prompts + scaffold + check  
+- [ ] **Docker / Container-from-scratch** — repo/blog + prompts + scaffold + check  
+- [ ] **Emulator / VM** — repo/blog + prompts + scaffold + check  
+- [ ] **Front-end Framework / React-from-scratch** — repo/blog + prompts + scaffold + check  
+- [ ] **Game (Tetris/Rogue/etc.)** — repo/blog + prompts + scaffold + check  
+- [ ] **Git internals (mini-git)** — repo/blog + prompts + scaffold + check  
+- [ ] **Network Stack** — repo/blog + prompts + scaffold + check  
+- [ ] **Operating System (toy kernel/bootloader)** — repo/blog + prompts + scaffold + check  
+- [ ] **Physics Engine** — repo/blog + prompts + scaffold + check  
+- [ ] **Programming Language / Compiler** — repo/blog + prompts + scaffold + check  
+- [ ] **Regex Engine** — repo/blog + prompts + scaffold + check  
+- [ ] **Search Engine** — repo/blog + prompts + scaffold + check  
+- [ ] **Shell** — repo/blog + prompts + scaffold + check  
+- [ ] **Template Engine** — repo/blog + prompts + scaffold + check  
+- [ ] **Text Editor** — repo/blog + prompts + scaffold + check  
+- [ ] **Visual Recognition System** — repo/blog + prompts + scaffold + check  
+- [ ] **Voxel Engine** — repo/blog + prompts + scaffold + check  
+- [ ] **Web Browser** — repo/blog + prompts + scaffold + check  
+- [ ] **Web Server / Framework** — repo/blog + prompts + scaffold + check  
+- [ ] **Uncategorized (surprise us!)** — repo/blog + prompts + scaffold + check
+
+---
+
+### 2) Mini-GPT with Vibe-Coding 
+
+> Concrete, runnable examples that demonstrate the Vibe loop on DL projects.
+
+#### Core LLM / NLP
+- [ ] **Mini-GPT (toy)** — tokenizer + tiny Transformer + sampling  
+
+
 ## Repo Layout (recommended)
 
 
@@ -34,9 +89,18 @@ A pragmatic build style:
 - ✅ **Auto-check**: run `checks/*` and capture the output.  
 - 📝 **Log vibe**: append 1–3 bullets to `vibes.md` (intent → friction → next).
 
+
+
+
+
 ## Table of Contents
 - [build-your-own-x — Vibe-Coding Edition](#build-your-own-x--vibe-coding-edition)
   - [What is Vibe-Coding?](#what-is-vibe-coding)
+  - [To-D List:](#to-d-list)
+    - [How to submit](#how-to-submit)
+    - [1) Community Vibe-Coding Showcases (repos/blogs)](#1-community-vibe-coding-showcases-reposblogs)
+    - [2) Mini-GPT with Vibe-Coding](#2-mini-gpt-with-vibe-coding)
+      - [Core LLM / NLP](#core-llm--nlp)
   - [Repo Layout (recommended)](#repo-layout-recommended)
   - [How to Use](#how-to-use)
     - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
