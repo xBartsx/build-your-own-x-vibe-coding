@@ -1,4 +1,4 @@
-# build-your-own-x — Vibe-Coding Edition
+# Build Your Own X with Vibe Coding
 
 > *What I cannot create, I do not understand — Richard Feynman.* 
 >  
