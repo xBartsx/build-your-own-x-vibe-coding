@@ -105,48 +105,18 @@ Open a PR or issue with:
   - [How to Use](#how-to-use)
     - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
   - [Table of Contents](#table-of-contents)
-  - [Build your own `LLM / Agentic System`](#build-your-own-llm--agentic-system)
-    - [Build your own `LLM (from scratch / minimal)`](#build-your-own-llm-from-scratch--minimal)
-    - [Build your own `RAG Pipeline`](#build-your-own-rag-pipeline)
-    - [Build your own `Agent`](#build-your-own-agent)
-    - [Build your own `Evaluation & Benchmark`](#build-your-own-evaluation--benchmark)
-    - [Build your own `Safety Guard`](#build-your-own-safety-guard)
-    - [Build your own `Vision / Multimodal`](#build-your-own-vision--multimodal)
-    - [Build your own `Inference & Deployment`](#build-your-own-inference--deployment)
+  - [Example: Build your own LLM](#build-your-own-llm--agentic-system)
+
   - [Contribute](#contribute)
   - [Credits](#credits)
 
-## Build your own `LLM / Agentic System`
+## Build your own `LLM`
 
 > Hands-on blueprints with **LLMs in the loop** (planning prompts + runnable checks + tiny scaffolds).
 
 ### Build your own `LLM (from scratch / minimal)`
 * [**Python**] _Mini-GPT (Toy)_: tokenizer → tiny Transformer → next-token sampling.  
   **Vibe add-on**: `recipes/llm_planning.md`, `checks/llm_smoke.py`, `scaffolds/llm_tiny/`
-
-### Build your own `RAG Pipeline`
-* [**Python**] _RAG Minimal_: loader → chunker → embed → vector store → retriever → rerank → answer.  
-  **Vibe add-on**: `checks/rag_eval.py` (retrieval quality), query-rewrite & grading prompt recipes.
-
-### Build your own `Agent`
-* [**Python**] _Single-tool Agent_: ReAct-style reasoning + one tool (web or bash).  
-  **Vibe add-on**: `recipes/agent_loop.md` (CoT, stop conditions, failure fallback), `checks/agent_replay.py`
-
-### Build your own `Evaluation & Benchmark`
-* [**Python**] _Judge-Pair Eval_: pairwise judge + majority vote + rubric prompts.  
-  **Vibe add-on**: `checks/judge_consistency.py` (retries & agreement), `scaffolds/judge_pair/`
-
-### Build your own `Safety Guard`
-* [**Python**] _Prompt-Injection Filter_: pattern rules + LLM referee + allowlist.  
-  **Vibe add-on**: `recipes/safety_redteam.md`, `checks/prompt_injection_suite.py`
-
-### Build your own `Vision / Multimodal`
-* [**Python**] _Mini-VLM Demo_: image encoder + text decoder + projection + caption/QA.  
-  **Vibe add-on**: `checks/vlm_caption_bleu.py`, tiny sample data + simple visualizations.
-
-### Build your own `Inference & Deployment`
-* [**Docker/Bash**] _Tiny Serving Stack_: FastAPI + streaming + batching + metrics + autoscaling hints.  
-  **Vibe add-on**: `scaffolds/serving_tiny/`, `checks/latency_p99.sh`
 
 ## Contribute
 
