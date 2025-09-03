@@ -21,11 +21,10 @@ A pragmatic build style:
 ## Table of Contents
 - [build-your-own-x — Vibe-Coding Edition](#build-your-own-x--vibe-coding-edition)
   - [What is Vibe-Coding?](#what-is-vibe-coding)
-  - [To-D List:](#to-d-list)
+  - [To-Do List:](#to-d-list)
     - [How to submit](#how-to-submit)
     - [1) Community Vibe-Coding Showcases (repos/blogs)](#1-community-vibe-coding-showcases-reposblogs)
     - [2) Mini-GPT with Vibe-Coding](#2-mini-gpt-with-vibe-coding)
-      - [Core LLM / NLP](#core-llm--nlp)
   - [Repo Layout (recommended)](#repo-layout-recommended)
   - [How to Use](#how-to-use)
     - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
@@ -84,9 +83,6 @@ Open a PR or issue with:
 
 ### 2) Mini-GPT with Vibe-Coding 
 
-> Concrete, runnable examples that demonstrate the Vibe loop on DL projects.
-
-#### Core LLM / NLP
 - [ ] **Mini-GPT (toy)** — tokenizer + tiny Transformer + sampling  
 
 
@@ -109,6 +105,8 @@ Open a PR or issue with:
 ### Build your own `LLM (from scratch / minimal)`
 * [**Python**] _Mini-GPT (Toy)_: tokenizer → tiny Transformer → next-token sampling.  
   **Vibe add-on**: `recipes/llm_planning.md`, `checks/llm_smoke.py`, `scaffolds/llm_tiny/`
+
+
 
 ## Contribute
 
