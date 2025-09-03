@@ -18,6 +18,17 @@ A pragmatic build style:
 
 > TL;DR: Less ceremony, more momentum. Learn a bit, run a bit, close the loop.
 
+### Tools
+- Claude Code
+- Gemini Cli
+- Cline
+- Codex
+- Cursor
+  
+
+#### Tutorial
+- [Vibe coding in prod | Code w/ Claude](https://www.youtube.com/watch?v=fHWFF_pnqDk) 
+
 ## Table of Contents
 - [build-your-own-x — Vibe-Coding Edition](#build-your-own-x--vibe-coding-edition)
   - [What is Vibe-Coding?](#what-is-vibe-coding)
