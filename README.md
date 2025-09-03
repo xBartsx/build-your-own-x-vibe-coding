@@ -96,8 +96,8 @@ Open a PR or issue with:
 4. Log your loop in `vibes.md` so you can reproduce & share later.
 
 ### The Vibe Loop (cheat-sheet)
-- 🎯 **Tiny intent** (≤25 min): define one win.  
-- ✍️ **Plan w/ recipe**: paste a 10–15 line prompt (plan/refactor/test).  
+- 🎯 **Tiny intent**: define one win.  
+- ✍️ **Plan w/ recipe**: paste system prompt (plan/refactor/test).  
 - 🛠️ **Do the thing**: code the minimum; prefer a scaffold.  
 - ✅ **Auto-check**: run `checks/*` and capture the output.  
 - 📝 **Log vibe**: append 1–3 bullets to `vibes.md` (intent → friction → next).
