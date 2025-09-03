@@ -90,9 +90,6 @@ Open a PR or issue with:
 - 📝 **Log vibe**: append 1–3 bullets to `vibes.md` (intent → friction → next).
 
 
-
-
-
 ## Table of Contents
 - [build-your-own-x — Vibe-Coding Edition](#build-your-own-x--vibe-coding-edition)
   - [What is Vibe-Coding?](#what-is-vibe-coding)
@@ -110,9 +107,6 @@ Open a PR or issue with:
   - [Contribute](#contribute)
   - [Credits](#credits)
 
-## Build your own `LLM`
-
-> Hands-on blueprints with **LLMs in the loop** (planning prompts + runnable checks + tiny scaffolds).
 
 ### Build your own `LLM (from scratch / minimal)`
 * [**Python**] _Mini-GPT (Toy)_: tokenizer → tiny Transformer → next-token sampling.  
