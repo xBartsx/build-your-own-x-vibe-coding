@@ -18,7 +18,7 @@ A pragmatic build style:
 
 > TL;DR: Less ceremony, more momentum. Learn a bit, run a bit, close the loop.
 
-## To-D List: 
+## To-Do List: 
 
 We’re actively collecting:
 **Community showcases** — repos/blog posts that used **Vibe-Coding** to complete a BYO-X project.  
