@@ -114,9 +114,9 @@ We love classic “from-scratch” tutorials *and* Vibe-wrapped upgrades.
 
 **For each PR, please include:**
 1) One minimal runnable example (script/notebook/app)  
-2) A 10–15 line **prompt recipe** (planning/refactor/test/perf) in `recipes/`  
+2) line **prompt recipe** (planning/refactor/test/perf) in `recipes/`  
 3) An **auto-check** in `checks/` (smoke test or small eval)  
-4) 3 short bullets from your `vibes.md` (intent → friction → next)
+4) short bullets from your `vibes.md` (intent → friction → next)
 
 You can also “Vibe-wrap” any existing entry by adding a tail line under it:
 
