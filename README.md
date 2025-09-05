@@ -110,6 +110,8 @@ Open a PR or issue with:
 - ✅ **Auto-check**: run `checks/*` and capture the output.  
 - 📝 **Log vibe**: append 1–3 bullets to `vibes.md` (intent → friction → next).
 
+## Tutorials
+
 ### Build your own `LLM (from scratch)`
 * [**Python**: _Mini-GPT_](./mini-gpt/): tokenizer → tiny Transformer → next-token sampling.  
 
