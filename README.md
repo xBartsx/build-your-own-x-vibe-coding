@@ -8,6 +8,25 @@ This repo preserves the spirit of **build-your-own-x**, and upgrades the workflo
 - **Vibe-Coding** = short iterative loops + lightweight prompt recipes + runnable scaffolds + tiny wins.
 - **LLMs in the loop**: prompt recipes, debug diaries, and auto-checks live alongside the code.
 
+## Table of Contents
+- [🚀 Build Your Own X with Vibe Coding](#-build-your-own-x-with-vibe-coding)
+  - [Table of Contents](#table-of-contents)
+  - [What is Vibe-Coding?](#what-is-vibe-coding)
+    - [Tools](#tools)
+      - [Tutorial](#tutorial)
+  - [❤️ Need Your Help !](#️-need-your-help-)
+    - [How to submit](#how-to-submit)
+    - [Community Vibe-Coding Showcases (repos/blogs)](#community-vibe-coding-showcases-reposblogs)
+  - [How to Use](#how-to-use)
+    - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
+  - [Tutorials](#tutorials)
+    - [Build your own `LLM (from scratch)`](#build-your-own-llm-from-scratch)
+    - [Build your own `APP`](#build-your-own-app)
+    - [Build your own `Game`](#build-your-own-game)
+  - [Contribute](#contribute)
+  - [Credits](#credits)
+
+
 ## What is Vibe-Coding?
 A pragmatic build style:
 1. **Micro loops (15–25 min)**: set one tiny goal → build → run → jot what felt off (the “vibe”).  
@@ -29,25 +48,8 @@ A pragmatic build style:
 #### Tutorial
 - [Vibe coding in prod | Code w/ Claude](https://www.youtube.com/watch?v=fHWFF_pnqDk) 
 
-## Table of Contents
-- [🚀 Build Your Own X with Vibe Coding](#-build-your-own-x-with-vibe-coding)
-  - [What is Vibe-Coding?](#what-is-vibe-coding)
-    - [Tools](#tools)
-      - [Tutorial](#tutorial)
-  - [Table of Contents](#table-of-contents)
-  - [To-Do List:](#to-do-list)
-    - [How to submit](#how-to-submit)
-    - [1) Community Vibe-Coding Showcases (repos/blogs)](#1-community-vibe-coding-showcases-reposblogs)
-  - [Repo Layout (recommended)](#repo-layout-recommended)
-  - [How to Use](#how-to-use)
-    - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
-    - [Build your own `LLM (from scratch)`](#build-your-own-llm-from-scratch)
-    - [Build your own `APP`](#build-your-own-app)
-    - [Build your own `Game`](#build-your-own-game)
-  - [Contribute](#contribute)
-  - [Credits](#credits)
 
-## To-Do List: 
+## ❤️ Need Your Help !
 
 We’re actively collecting:
 **Community showcases** — repos/blog posts that used **Vibe-Coding** to complete a BYO-X project.  
@@ -61,7 +63,7 @@ Open a PR or issue with:
 
 ---
 
-### 1) Community Vibe-Coding Showcases (repos/blogs)
+### Community Vibe-Coding Showcases (repos/blogs)
 
 > Looking for real build diaries + prompts that wrap classic BYO-X topics.
 
@@ -90,11 +92,7 @@ Open a PR or issue with:
 - [ ] **Voxel Engine** — repo/blog + prompts + scaffold + check  
 - [ ] **Web Browser** — repo/blog + prompts + scaffold + check  
 - [ ] **Web Server / Framework** — repo/blog + prompts + scaffold + check  
-- [ ] **Uncategorized (surprise us!)** — repo/blog + prompts + scaffold + check
 
-
-
-## Repo Layout (recommended)
 
 
 ## How to Use
@@ -109,6 +107,8 @@ Open a PR or issue with:
 - 🛠️ **Do the thing**: code the minimum; prefer a scaffold.  
 - ✅ **Auto-check**: run `checks/*` and capture the output.  
 - 📝 **Log vibe**: append 1–3 bullets to `vibes.md` (intent → friction → next).
+
+## Tutorials
 
 ### Build your own `LLM (from scratch)`
 * [**Python**: _Mini-GPT_](./mini-gpt/): tokenizer → tiny Transformer → next-token sampling.  
