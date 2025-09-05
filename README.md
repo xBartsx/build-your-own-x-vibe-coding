@@ -30,18 +30,20 @@ A pragmatic build style:
 - [Vibe coding in prod | Code w/ Claude](https://www.youtube.com/watch?v=fHWFF_pnqDk) 
 
 ## Table of Contents
-- [build-your-own-x — Vibe-Coding Edition](#build-your-own-x--vibe-coding-edition)
+- [🚀 Build Your Own X with Vibe Coding](#-build-your-own-x-with-vibe-coding)
   - [What is Vibe-Coding?](#what-is-vibe-coding)
-  - [To-Do List:](#to-d-list)
+    - [Tools](#tools)
+      - [Tutorial](#tutorial)
+  - [Table of Contents](#table-of-contents)
+  - [To-Do List:](#to-do-list)
     - [How to submit](#how-to-submit)
     - [1) Community Vibe-Coding Showcases (repos/blogs)](#1-community-vibe-coding-showcases-reposblogs)
-    - [2) Mini-GPT with Vibe-Coding](#2-mini-gpt-with-vibe-coding)
   - [Repo Layout (recommended)](#repo-layout-recommended)
   - [How to Use](#how-to-use)
     - [The Vibe Loop (cheat-sheet)](#the-vibe-loop-cheat-sheet)
-  - [Table of Contents](#table-of-contents)
-  - [Example: Build your own LLM](#build-your-own-llm--agentic-system)
-
+    - [Build your own `LLM (from scratch)`](#build-your-own-llm-from-scratch)
+    - [Build your own `APP`](#build-your-own-app)
+    - [Build your own `Game`](#build-your-own-game)
   - [Contribute](#contribute)
   - [Credits](#credits)
 
@@ -90,11 +92,6 @@ Open a PR or issue with:
 - [ ] **Web Server / Framework** — repo/blog + prompts + scaffold + check  
 - [ ] **Uncategorized (surprise us!)** — repo/blog + prompts + scaffold + check
 
----
-
-### 2) Mini-GPT with Vibe-Coding 
-
-- [ ] **Mini-GPT (toy)** — tokenizer + tiny Transformer + sampling  
 
 
 ## Repo Layout (recommended)
@@ -113,10 +110,14 @@ Open a PR or issue with:
 - ✅ **Auto-check**: run `checks/*` and capture the output.  
 - 📝 **Log vibe**: append 1–3 bullets to `vibes.md` (intent → friction → next).
 
-### Build your own `LLM (from scratch / minimal)`
-* [**Python**] _Mini-GPT (Toy)_: tokenizer → tiny Transformer → next-token sampling.  
-  **Vibe add-on**: `recipes/llm_planning.md`, `checks/llm_smoke.py`, `scaffolds/llm_tiny/`
+### Build your own `LLM (from scratch)`
+* [**Python**: _Mini-GPT_](./mini-gpt/): tokenizer → tiny Transformer → next-token sampling.  
 
+### Build your own `APP`
+* [**JavaScript/React**: _Coding with ChatGPT-5 - App Development with AI | Full Tutorial - Vibe Coding_](https://www.youtube.com/watch?v=7X8Nv1CUcec) (Video)
+
+### Build your own `Game`
+* [**JavaScript**: _Making An Actually Fun Game (NO Coding experience)_](https://www.youtube.com/watch?v=aa-Fu5Qw91M) (Video)
 
 
 ## Contribute
